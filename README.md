@@ -1,6 +1,6 @@
 # architecturelectures-team15-spicegirls
 
-### Team Assignment
+## Team Assignment
   * Study the architectural style assigned to your team
   * Prepare a 5-minute video presentation for the class
     * You will present:
@@ -12,3 +12,10 @@
         * Example applications?
        * Security Implications!
        * Include your sources (e.g., websites)
+       
+## Contributors
+ * Dima AbdelJaber
+ * Ricardo Sanchez
+ * Ana Zepeda
+ * Scott Honaker
+ * Luis Ochoa
